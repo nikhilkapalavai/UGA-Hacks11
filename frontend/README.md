@@ -4,6 +4,17 @@ Atharva More
 Tom Anthony
 Prajesh Santhanakrishnan
 
+Quick Highlights:
+- Purpose: Simplified PC building using multi-agent "architectural reasoning."
+- Tools: Google Cloud Vertex AI (Gemini + Imagen 3), Vertex AI Search (RAG), LangChain, and FastAPI.
+
+Key Problems Solved:
+- Stale Data: Solved with a hybrid RAG-Web Search approach for live prices.
+- Prompt Logic: Fixed KeyError issues with strict JSON-template separation.
+- Bottlenecks: Overcome by using a Builder-Critic-Improver agent flow.
+- Credits: LangChain/LangGraph, Google Cloud Platform, and FastAPI.
+
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started

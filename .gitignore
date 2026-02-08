@@ -1,0 +1,21 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Node / Next
+node_modules/
+.next/
+
+# Env / secrets
+.env
+.env.local
+
+# Editor / OS
+.vscode/
+.DS_Store
+*.log
+
+# Build artifacts
+dist/
+build/
